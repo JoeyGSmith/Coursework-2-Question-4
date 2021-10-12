@@ -3,6 +3,8 @@
 #include <iomanip>
 #include "Vector.hpp"
 
+//NOT MINE! Given by module convener.
+
 // Overridden copy constructor
 // Allocates memory for new vector, and copies
 // entries of other vector into it
