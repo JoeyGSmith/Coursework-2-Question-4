@@ -4,6 +4,8 @@
 #include "Matrix.hpp"
 #include "Vector.hpp"
 
+////NOT MINE! Given by module convener.
+
 
 // Overwritten copy constructor
 // Allocate memory for new matrix, and copy
